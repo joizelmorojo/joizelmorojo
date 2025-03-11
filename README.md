@@ -61,11 +61,8 @@ I specialize in building new projects from scratch and maintaining existing appl
 
 ## 💬 Let's Connect
 <p align="center">
-<!--   <a href="https://linkedin.com/in/joizelmorojo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a> -->
-  <a href="mailto:happyjoizel@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlookmail&logoColor=white" />
+  <a href="mailto:happyjoizel@outlook.com" title="Send me an email">
+    <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://github.com/joizelmorojo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
