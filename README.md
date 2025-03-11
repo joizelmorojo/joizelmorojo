@@ -42,22 +42,24 @@ I specialize in building new projects from scratch and maintaining existing appl
 ---
 
 ## 📈 GitHub Stats & Contributions
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joizelmorojo&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joizelmorojo&theme=radical" width="48%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joizelmorojo&layout=compact&theme=radical" />
-</p>
+</p> -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joizelmorojo&show_icons=true&theme=radical&count_private=true&hide=prs,issues" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=joizelmorojo&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joizelmorojo&layout=compact&theme=radical" width="42%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joizelmorojo&theme=radical" width="55%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=joizelmorojo&theme=radical&no-frame=true&column=7" /> </p>
 
 ---
 
 ## 💬 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/joizelmorojo" target="_blank">
+<!--   <a href="https://linkedin.com/in/joizelmorojo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a> -->
   <a href="mailto:happyjoizel@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlookmail&logoColor=white" />
   </a>
