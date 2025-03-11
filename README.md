@@ -20,18 +20,22 @@ I specialize in building new projects from scratch and maintaining existing appl
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-### **⚙️ Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+### **⚙️ Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 
-### **📱 Mobile & Desktop Development**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+### **📱 Mobile & Desktop Development**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)  
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)  
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)  
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+
 
 ### **📊 Databases & DevOps**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -41,7 +45,7 @@ I specialize in building new projects from scratch and maintaining existing appl
 
 ---
 
-## 📈 GitHub Stats & Contributions
+<!-- ## 📈 GitHub Stats & Contributions -->
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joizelmorojo&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joizelmorojo&theme=radical" width="48%" />
@@ -51,7 +55,7 @@ I specialize in building new projects from scratch and maintaining existing appl
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joizelmorojo&layout=compact&theme=radical" />
 </p> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joizelmorojo&show_icons=true&theme=radical&count_private=true&hide=prs,issues" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=joizelmorojo&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joizelmorojo&layout=compact&theme=radical" width="42%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joizelmorojo&theme=radical" width="55%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=joizelmorojo&theme=radical&no-frame=true&column=7" /> </p>
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joizelmorojo&show_icons=true&theme=radical&count_private=true&hide=prs,issues" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=joizelmorojo&theme=radical" width="48%" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joizelmorojo&layout=compact&theme=radical" width="42%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joizelmorojo&theme=radical" width="55%" /> </p> <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=joizelmorojo&theme=radical&no-frame=true&column=7" /> </p>  -->
 
 ---
 
