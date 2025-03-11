@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d818b391-8bda-44dd-9fa2-66c1e1a8ed64)<h1 align="center">Hi, I'm Joizel Morojo 👋</h1>
+<h1 align="center">Hi, I'm Joizel Morojo 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer;Passionate+about+Web%2C+Mobile%2C+and+Desktop+Apps;Delivering+High-Quality+Results;Always+Eager+to+Learn+New+Technologies" />
