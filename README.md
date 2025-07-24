@@ -61,7 +61,7 @@ I specialize in building new projects from scratch and maintaining existing appl
 
 ## 💬 Let's Connect
 <p align="center">
-  <a href="mailto:happyjoizel@outlook.com" title="Send me an email">
+  <a href="mailto:bedragon1994@gmail.com" title="Send me an email">
     <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://github.com/joizelmorojo">
