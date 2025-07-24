@@ -67,4 +67,7 @@ I specialize in building new projects from scratch and maintaining existing appl
   <a href="https://github.com/joizelmorojo">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://teams.microsoft.com/l/chat/0/0?users=bedragon1994@gmail.com" title="Message me">
+    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
+  </a>
 </p>
