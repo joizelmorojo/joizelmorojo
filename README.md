@@ -60,15 +60,4 @@ I specialize in building new projects from scratch and maintaining existing appl
 ---
 
 ## 💬 Let's Connect
-<p align="center">
-  <a href="mailto:onepushsing@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-  <a href="https://github.com/joizelmorojo">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-<!--   <a href="https://teams.microsoft.com/l/chat/0/0?users=bedragon1994@gmail.com" title="Message me"> -->
-  <a href="https://teams.live.com/l/invite/FAAkNiRYubfxbhXFAE" title="Message me">
-    <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" />
-  </a>
-</p>
+<p align="center"> <a href="mailto:onepushsing@gmail.com" title="Send me an email"> <img src="https://img.shields.io/badge/Contact Me-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> </a> <a href="https://github.com/joizelmorojo"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://teams.live.com/l/invite/FAAkNiRYubfxbhXFAE" title="Message me"> <img src="https://img.shields.io/badge/Microsoft Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white" /> </a> <a href="https://discord.gg/YOUR_DISCORD_LINK" title="Message me on Discord"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> </a> </p>
